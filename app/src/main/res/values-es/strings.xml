@@ -1,0 +1,33 @@
+
+<resources>
+    <string name="app_name">Consejos para Adelgazar</string>
+    <string name="app_id">ca-app-pub-6420027936185714~1544585883</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-6420027936185714/3733433829</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-6420027936185714/4849158657</string>
+    <string name="show_in_google_play">Calificar esta app</string>
+    <string name="about">Acerca de</string>
+    <string name="close">Cerrar</string>
+    <string name="about_content"><b>Version 1.0</b>, contactar a: <i> jlab.apps@gmail.com</i></string>
+    <string name="accept">Ok</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="contact">Contactar</string>
+    <string name="app_mail_not_found">No se encuentra una aplicación de correo.</string>
+    <string name="description">Descripción:</string>
+    <string name="ingredients">Ingredientes:</string>
+    <string name="ingredients_word">Ingredientes</string>
+    <string name="prep_description">Manual de Elaboración:</string>
+    <string name="action_search">Search</string>
+    <string name="difficulty_0">Fácil</string>
+    <string name="difficulty_1">Medio</string>
+    <string name="difficulty_2">Medio Difícil</string>
+    <string name="difficulty_3">Difícil</string>
+    <string name="difficulty">Dificultad</string>
+    <string name="all">Todas</string>
+    <string name="add_to_favorite">Añadir a Favoritos</string>
+    <string name="remove_from_favorite">Eliminar de Favoritos</string>
+    <string name="navigation_drawer_open">Abriendo menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrando menú de navegación</string>
+    <string name="favorites">Favoritos</string>
+    <string name="show">Ver</string>
+    <string name="curiosity">Sabías que...</string>
+</resources>

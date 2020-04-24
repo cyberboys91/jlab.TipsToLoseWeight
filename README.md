@@ -1,2 +1,2 @@
-# jlab.TipsToLoseWeight
-Tips to lose weight android app
+# jlab.Desserts
+Desserts Recipes Android App

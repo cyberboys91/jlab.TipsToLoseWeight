@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_centerVertical="true"
+    android:layout_centerHorizontal="true"
+    android:layout_weight="1"
+    android:padding="15dp"
+    android:background="@drawable/tip_property_grid"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTipTitle"
+        android:textSize="@dimen/text_size_big"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTipDescription"
+        android:textSize="@dimen/short_text_size_v1"
+        android:maxLines="4"
+        android:ellipsize="end"
+        android:textColor="@color/black"/>
+
+</LinearLayout>
