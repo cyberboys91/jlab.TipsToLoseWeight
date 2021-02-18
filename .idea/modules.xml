@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jlab.TipsToLoseWeight.iml" filepath="$PROJECT_DIR$/jlab.TipsToLoseWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/jlab.TipsToLoseWeight.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/jlab.TipsToLoseWeight.app.iml" />
     </modules>
   </component>
 </project>
