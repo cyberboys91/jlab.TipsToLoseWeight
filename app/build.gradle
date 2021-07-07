@@ -7,7 +7,7 @@ android {
         applicationId "jlab.TipsToLoseWeight"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 1
+        versionCode 20210707
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
